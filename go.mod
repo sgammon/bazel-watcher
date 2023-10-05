@@ -5,11 +5,12 @@ require (
 	github.com/fsnotify/fsevents v0.1.1
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/golang/protobuf v1.5.2
-	github.com/google/go-cmp v0.5.5
+	github.com/google/go-cmp v0.5.6
 	github.com/gorilla/websocket v1.4.2
 	github.com/jaschaephraim/lrserver v0.0.0-20171129202958-50d19f603f71
 	github.com/mattn/go-shellwords v1.0.11
-	golang.org/x/sys v0.0.0-20191029155521-f43be2a4598c // indirect
+	github.com/smartystreets/goconvey v1.8.1 // indirect
+	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 )
 
 go 1.13
